@@ -1,5 +1,4 @@
---Magic Trick Question
-
+<h2>Problem</h2>
 Recently you went to a magic show. You were very impressed by one of the tricks, so you decided to try to figure out the secret behind it!
 
 The magician starts by arranging 16 cards in a square grid: 4 rows of cards, with 4 cards in each row. Each card has a different number from 1 to 16 written on the side that is showing. Next, the magician asks a volunteer to choose a card, and to tell him which row that card is in.
