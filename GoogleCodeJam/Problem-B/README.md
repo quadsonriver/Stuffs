@@ -25,7 +25,7 @@ Notice that you get cookies continuously: so 0.1 seconds after the game starts y
 
 <i>The first line of the input gives the number of test cases, T. T lines follow. Each line contains three space-separated real-valued numbers: C, F and X, whose meanings are described earlier in the problem statement.
 
-C, F and X will each consist of at least 1 digit followed by 1 decimal point followed by from 1 to 5 digits. There will be no leading zeroes.
+<i>C, F and X will each consist of at least 1 digit followed by 1 decimal point followed by from 1 to 5 digits. There will be no leading zeroes.
 
 <h2>Output</h2>
 
@@ -36,6 +36,9 @@ C, F and X will each consist of at least 1 digit followed by 1 decimal point fol
 <h2>Limits</h2>
 
 <i>1 ≤ T ≤ 100.
-1 ≤ C ≤ 500.
-1 ≤ F ≤ 4.
-1 ≤ X ≤ 2000.
+
+<i>1 ≤ C ≤ 500.
+
+<i>1 ≤ F ≤ 4.
+
+<i>1 ≤ X ≤ 2000.
