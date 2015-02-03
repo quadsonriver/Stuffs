@@ -1,6 +1,8 @@
-//Quick sort
+//Quick Sort Implementation
+//To call method: quicksort(Array, 0, Array.length()-1)
 
-private static void quicksort(int[] arr, int low, int high)
+
+	private static void quicksort(int[] arr, int low, int high)
 	{
 		if(low < high)
 		{
@@ -9,7 +11,6 @@ private static void quicksort(int[] arr, int low, int high)
 			quicksort(arr,p+1,high);
 		}
 	}
-	
 	private static int partition(int[] arr, int low, int high)
 	{
 		int pivot = (high+low)/2;
