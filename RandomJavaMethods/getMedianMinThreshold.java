@@ -1,4 +1,4 @@
-/* Find the Median value of an array given a minimum threshold value
+/* Find the Median value of an array where the values of the array are larger than a threshold
  *    Time  Complexity: O(n)
  *    Space Complexity: O(n)
  */
