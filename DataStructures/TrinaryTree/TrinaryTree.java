@@ -1,3 +1,5 @@
+package TrinaryTree;
+
 import java.util.NoSuchElementException;
 
 public class TrinaryTree {

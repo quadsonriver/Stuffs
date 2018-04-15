@@ -1,3 +1,5 @@
+package TrinaryTree;
+
 /* 
 *  Node class for Trinary Tree
 */
